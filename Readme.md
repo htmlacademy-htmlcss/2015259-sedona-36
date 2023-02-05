@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Марина Моисеенко](https://up.htmlacademy.ru/htmlcss/36/user/2015259).
-* Наставник: `Неизвестно`.
+* Наставник: [Сергей Остаповец](https://htmlacademy.ru/profile/seraphim).
 
 ---
 
